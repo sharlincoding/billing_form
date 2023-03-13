@@ -1,0 +1,60 @@
+body{
+    background-color:white;
+    }
+    h1, p{
+    margin:0px;
+    }
+    .main-section{
+    background-color: #FFF;
+    border: 3px solid #f00a16;
+    }
+    .header{
+    background-color: white;
+    padding:30px 15px 20px 15px ;
+    
+    }
+
+    .header img{
+       height: 130px;
+    }
+    .content{
+    padding:20px 15px 20px 15px;
+    }
+   
+    .table td:nth-child(1),
+    .table th:nth-child(1){
+    text-align:left;
+    }
+    .lastSection{
+    padding: 20px 15px 30px 15px;
+    }
+
+    .table{
+        border: 4px solid red !important;
+    }
+
+    tr, th, td{
+        border: 2px solid red !important;
+    }
+
+    .mx-1{
+        margin-left: 0.10rem!important;
+        margin-right: 0.10rem!important;
+    }
+
+    td{
+        font-weight: 500;    
+        
+    }
+
+    #indent{
+        text-indent: 40%;
+    }
+
+    thead{
+        background-color: red;
+    }
+
+    .table-2 thead{
+         background-color: #EFF8FF;
+    }
